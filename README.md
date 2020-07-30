@@ -1,9 +1,17 @@
 # appleTools
-苹果登陆相关工具
+### 简介
+
+苹果相关工具
+
+以后按需会添加支付相关
+
+
+
+### 登陆
 
 开发APP苹果登陆功能时参考各种渠道的代码然后顺手封装一下。
 
-主要参考：https://github.com/tptpp/sign-in-with-apple
+登陆主要参考：https://github.com/tptpp/sign-in-with-apple
 
 在此基础上增加了解密苹果最终返回数据的id_token，用于验证客户端post过来的userIdentifier
 
